@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Divya Prasoon 👋
 
-<!--
-**prasoon-develop/prasoon-develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science (Data Science) Student at Chandigarh University
 
-Here are some ideas to get you started:
+I am currently learning full stack development and building real-world projects to strengthen my problem-solving and development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- HTML, CSS, JavaScript
+- Git & GitHub
+- React.js
+- Backend Development
+- AI-integrated Applications
+
+## Goals
+- Build strong real-world projects
+- Improve development skills consistently
+- Prepare for internships and placements
+- Grow as a software developer
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/divya-prasoon-195360349
