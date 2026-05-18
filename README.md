@@ -18,4 +18,4 @@ I am currently learning full stack development and building real-world projects 
 - Grow as a software developer
 
 ## Connect With Me
-- LinkedIn: www.linkedin.com/in/divya-prasoon-195360349
+- LinkedIn: www.linkedin.com/in/divya-prasoon
